@@ -1,6 +1,7 @@
 # Data-Engineering-Pojects
 
 ## Project #1: [Batch Data Processing](https://github.com/Mregojos/Batch-Data-Processing)
+### This simple project uses a programming language to transform unprocessed data.
 
 ## Project #2: [Streaming Data Processing](https://github.com/Mregojos/Streaming-Data-Processing)
 
