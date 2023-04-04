@@ -1,6 +1,5 @@
 # Data-Engineering-Pojects
 
-
 ## Project: [Batch Data Processing](https://github.com/Mregojos/Batch-Data-Processing)
 * About: This simple batch data processing project uses a programming language to transform unprocessed data.
 * Tech Stack: 
