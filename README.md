@@ -20,9 +20,20 @@
 * Tech Stack:
 
 <!--
+## Project: [<API Project>]
+* About:
+* Tech Stack:
+
 ## Project: [Modern Data Processing](https://github.com/Mregojos/Modern-Data-Processing)
+* About:
+* Tech Stack:
 
 ## Project: [Data Migration](https://github.com/Mregojos/Data-Migration)
+* About:
+* Tech Stack:
 
 ## Project: [Data Processing with Cloud Services](https://github.com/Mregojos/Data-Processing-with-Cloud-Services)
+* About:
+* Tech Stack:
+
 -->
