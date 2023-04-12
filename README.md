@@ -9,7 +9,7 @@
 ## Project: [Streaming Data Processing](https://github.com/Mregojos/Streaming-Data-Processing)
 
 ---
-## Project: [Data Integration](https://github.com/Mregojos/Data-Migration)
+## Project: [Data Integration](https://github.com/Mregojos/Data-Integration)
 
 
 <!--
