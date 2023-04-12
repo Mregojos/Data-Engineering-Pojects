@@ -1,25 +1,22 @@
 # Data-Engineering-Projects
 
-## Project: [Batch Data Processing](https://github.com/Mregojos/Batch-Data-Processing)
-* About: This simple batch data processing project uses a programming language to transform unprocessed data.
-* Tech Stack: 
+## Project: [Batch Data Processing with Orchestration](https://github.com/Mregojos/Batch-Data-Processing)
+
+---
+## Project: [Data Web App: Data Analysis](https://github.com/Mregojos/Job-App)
 
 ----
 ## Project: [Streaming Data Processing](https://github.com/Mregojos/Streaming-Data-Processing)
-* About:
-* Tech Stack:
 
 ---
+## Project: [Data Integration](https://github.com/Mregojos/Data-Migration)
+
+
+<!--
 ## Project: [Event Data Processing](https://github.com/Mregojos/Event-Data-Processing)
 * About:
 * Tech Stack:
 
----
-## Project: [Data Analysis](https://github.com/Mregojos/Job-App)
-* About:
-* Tech Stack:
-
-<!--
 ## Project: [<API Project>]
 * About:
 * Tech Stack:
@@ -28,9 +25,6 @@
 * About:
 * Tech Stack:
 
-## Project: [Data Migration](https://github.com/Mregojos/Data-Migration)
-* About:
-* Tech Stack:
 
 ## Project: [Data Processing with Cloud Services](https://github.com/Mregojos/Data-Processing-with-Cloud-Services)
 * About:
