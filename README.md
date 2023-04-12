@@ -3,7 +3,7 @@
 ## Project: [Batch Data Processing with Orchestration](https://github.com/Mregojos/Batch-Data-Processing)
 
 ---
-## Project: [Data Web App: Data Analysis](https://github.com/Mregojos/Job-App)
+## Project: [Data Web App: Data Analysis](https://github.com/Mregojos/Data-Analysis-App)
 
 ----
 ## Project: [Streaming Data Processing](https://github.com/Mregojos/Streaming-Data-Processing)
