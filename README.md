@@ -1,4 +1,4 @@
-# Data-Engineering-Projects
+# Data Engineering Projects
 
 ## Project: [Batch Data Processing with Orchestration](https://github.com/Mregojos/Batch-Data-Processing)
 
